@@ -17,3 +17,9 @@ body {
     background-color: rgb(69, 173, 187);
     height: 5cm;
 }
+
+h4 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
